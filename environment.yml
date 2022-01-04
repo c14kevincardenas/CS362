@@ -1,6 +1,4 @@
 name: cs362-environment
-channels:
-  - conda-forge
 dependencies:
   - numpy
   - matplotlib
